@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-67beb33505406be9530d.js",
-      "component---src-pages-index-js-67beb33505406be9530d.js.map"
+      "component---src-pages-index-js-45ae7a4557b303a7e361.js",
+      "component---src-pages-index-js-45ae7a4557b303a7e361.js.map"
     ],
     "path---": [
       "path----d33a0722fb2a4686de24.js",
       "path----d33a0722fb2a4686de24.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-bd05fa1b05fa32f8a1e5.js",
-      "component---src-layouts-index-js-bd05fa1b05fa32f8a1e5.js.map"
+      "component---src-layouts-index-js-0ad5748a8d8bd46ad304.js",
+      "component---src-layouts-index-js-0ad5748a8d8bd46ad304.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
@@ -37,9 +37,9 @@
       "component---src-pages-page-2-js-1d4f0f19c1c44398ab65.js.map"
     ],
     "app": [
-      "app-e45d37ee86016b802836.js",
+      "app-9fe7856ecadc4efd7206.js",
       "build-js-styles.css",
-      "app-e45d37ee86016b802836.js.map",
+      "app-9fe7856ecadc4efd7206.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
